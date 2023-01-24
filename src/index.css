@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active {
+  border-top: 6px solid black;
+  @apply opacity-100;
+}
